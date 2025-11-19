@@ -37,15 +37,6 @@ const projects: Project[] = [
     link: "#",
     github: "#",
   },
-  {
-    id: 4,
-    title: "Analytics Dashboard",
-    description:
-      "Real-time analytics dashboard with interactive charts, data visualization, and customizable widgets.",
-    tags: ["React", "D3.js", "WebSockets", "TypeScript"],
-    link: "#",
-    github: "#",
-  },
 ];
 
 export default function Work() {

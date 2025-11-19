@@ -9,23 +9,26 @@ export default function About() {
         <div className="grid lg:grid-cols-3 gap-8">
           <div className="lg:col-span-2 space-y-6">
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Im a passionate developer with expertise in building scalable web
-              applications. With a strong foundation in both frontend and
-              backend technologies, I create seamless user experiences combined
-              with robust architecture.
+              Software engineer who believes that code is more than logic; it’s
+              a language of possibility. From crafting fluid interfaces in
+              React, to building resilient backends with Spring Boot, from
+              shaping experiences in Flutter and iOS, to exploring the frontiers
+              of blockchain, my journey has been a tapestry of technologies
+              woven together with curiosity.
             </p>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              My journey in development has taken me through various industries,
-              from startups to enterprises. Im driven by solving complex
-              problems and continuously learning new technologies to stay at the
-              forefront of web development.
+              I love creating systems that feel alive — apps that scale
+              gracefully, interfaces that breathe, and architectures that stand
+              firm like mountains. But beyond the screen, I travel, I chase
+              horizons, collect stories, and choose to live unbounded — because
+              every new place reminds me that creativity has no walls.
             </p>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              When Im not coding, you can find me exploring new technologies,
-              contributing to open source, or sharing knowledge with the
-              developer community.
+              Whether I’m designing a database in SQL, debugging a complex flow,
+              or learning the next tool that pushes the world forward, I carry
+              the same fire: to build, to explore, to grow.
             </p>
           </div>
 
@@ -42,6 +45,16 @@ export default function About() {
                   "Node.js",
                   "Tailwind CSS",
                   "PostgreSQL",
+                  "Dapps",
+                  "Solidity",
+                  "Flutter",
+                  "Swift",
+                  "Java",
+                  "Spring Boot",
+                  "Docker",
+                  "AWS",
+                  "Figma",
+                  "Adobe After Effects",
                 ].map((skill) => (
                   <span
                     key={skill}

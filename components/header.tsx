@@ -31,7 +31,7 @@ export default function Header() {
         </nav>
 
         <a
-          href="https://github.com"
+          href="https://github.com/Deeku10"
           target="_blank"
           rel="noopener noreferrer"
           className="p-2 hover:bg-card rounded-lg transition"
